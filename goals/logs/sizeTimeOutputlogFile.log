@@ -1,0 +1,10 @@
+[2023-03-28 11:37:48] - Goals sheet has exported to GoalService successfully
+[2023-03-28 11:37:48] - Goals table has imported from GoalHelper
+[2023-03-28 11:37:48] - Goal table saved to repository
+[2023-03-28 11:37:48] - Targets sheet has exported to TargetService successfully
+[2023-03-28 11:37:48] - Targets table has imported from TargetHelper
+[2023-03-28 11:37:48] - Target table saved to repository
+[2023-03-28 11:37:48] - Suubgoals sheet has exported to SubGoalService successfully
+[2023-03-28 11:37:48] - Subgoals table has imported from SubGoalHelper
+[2023-03-28 11:37:48] - Subgoals table saved to repository
+[2023-03-28 11:37:48] - Uploaded all file successfully: goals.xlsx
